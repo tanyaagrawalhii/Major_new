@@ -1,0 +1,57 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.so
+*.egg
+*.egg-info/
+.eggs/
+build/
+develop-eggs/
+dist/
+pip-wheel-metadata/
+*.manifest
+*.spec
+
+# === Virtual environment ===
+venv/
+env/
+ENV/
+.venv/
+.env/
+venv.bak/
+
+# === Flask specific ===
+instance/
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# === Jupyter & Notebooks ===
+.ipynb_checkpoints/
+*.ipynb
+
+# === IDEs and Editors ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === Environment files ===
+*.env
+.env.*
+*.bak
+
+# === Cache ===
+.cache/
+__pycache__/
+.pytest_cache/
+coverage/
+htmlcov/
