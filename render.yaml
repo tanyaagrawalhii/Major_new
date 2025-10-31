@@ -2,7 +2,15 @@ services:
   - type: web
     name: plant-identification-api
     env: python
-    buildCommand: ""
-    startCommand: gunicorn app:app
-    plan: free
+    region: oregon  # or 'singapore' / 'frankfurt' etc.
+    buildCommand: |
+      pip install -r requirements.txt
+    startCommand: |
+      gunicorn app:app --bind 0.0.0.0:$PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10
+      - key: GOOGLE_API_KEY
+        sync: false  # Set this manually in Render dashboard for security
     autoDeploy: true
+    plan: free
