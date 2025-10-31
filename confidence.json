@@ -1,0 +1,208 @@
+{
+  "test_results": [
+    {
+      "plant_name": "Anthemis nobilis L.",
+      "confidence": 0.74
+    },
+    {
+      "plant_name": "Anemone narcissiflora L.",
+      "confidence": 0.80
+    },
+    {
+      "plant_name": "Altingia excelsa Noronha",
+      "confidence": 0.59
+    },
+    {
+      "plant_name": "Amaranthus viridis L.",
+      "confidence": 0.63
+    },
+    {
+      "plant_name": "Amaranthus spinosus L.",
+      "confidence": 0.77
+    },
+    {
+      "plant_name": "Prunus Salicina Lindl",
+      "confidence": 0.89
+    },
+    {
+      "plant_name": "Pterocarpus Santalinus L.f",
+      "confidence": 0.91
+    },
+    {
+      "plant_name": "Rhododendron Anthopogon D.don",
+      "confidence": 0.54
+    },
+    {
+      "plant_name": "Senecio Chrysanthemoides Dc",
+      "confidence": 0.68
+    },
+    {
+      "plant_name": "Senecio Vulgaris L",
+      "confidence": 0.92
+    },
+    {
+      "plant_name": "Sida Cordata Burm.f. Borss.waalk",
+      "confidence": 0.84
+    },
+    {
+      "plant_name": "Sisymbrium Loeselii L",
+      "confidence": 0.62
+    },
+    {
+      "plant_name": "Stranvaesia Glaucescens Lindl",
+      "confidence": 0.91
+    },
+    {
+      "plant_name": "Sterculia Balanghas L",
+      "confidence": 0.56
+    },
+    {
+      "plant_name": "Tectona Grandis L.f",
+      "confidence": 0.64
+    },
+    {
+      "plant_name": "Syzygium Zeylanicum L. Dc",
+      "confidence": 0.94
+    },
+    {
+      "plant_name": "Tacca Integrifolia Ker Gawl",
+      "confidence": 0.58
+    },
+    {
+      "plant_name": "Daucas carota L.",
+      "confidence": 0.61
+    },
+    {
+      "plant_name": "Datura stramonium L.",
+      "confidence": 0.71
+    },
+    {
+      "plant_name": "Datura metal L.",
+      "confidence": 0.79
+    },
+    {
+      "plant_name": "Dalbergia pinnata (Lour.) Prain.",
+      "confidence": 0.97
+    },
+    {
+      "plant_name": "Dactylorhiza hatagirea (D. Don) Soo",
+      "confidence": 0.82
+    },
+    {
+      "plant_name": "Dactyloctenium aegyptium (L.) Willd.",
+      "confidence": 0.79
+    },
+    {
+      "plant_name": "Butea monosperma (Lam.) Taub.",
+      "confidence": 0.90
+    },
+    {
+      "plant_name": "Buxus wallichiana Baill.",
+      "confidence": 0.83
+    },
+    {
+      "plant_name": "Byttneria herbacea Roxb.",
+      "confidence": 0.95
+    },
+    {
+      "plant_name": "Azanza lampas (Cav.) Alef.",
+      "confidence": 0.97
+    },
+    {
+      "plant_name": "Azadirachta indica (L.) A.Juss.",
+      "confidence": 0.53
+    },
+    {
+      "plant_name": "Avicennia officinalis L.",
+      "confidence": 0.90
+    },
+    {
+      "plant_name": "Averrhoa bilimbi L.",
+      "confidence": 0.89
+    },
+    {
+      "plant_name": "Avena sativa L.",
+      "confidence": 0.67
+    },
+    {
+      "plant_name": "Avena fatua L.",
+      "confidence": 0.87
+    },
+    {
+      "plant_name": "Atropa acuminata Royle",
+      "confidence": 0.88
+    },
+    {
+      "plant_name": "Geranium molle L.",
+      "confidence": 0.66
+    },
+    {
+      "plant_name": "Garcinia mangostana L.",
+      "confidence": 0.87
+    },
+    {
+      "plant_name": "Ficus carica L.",
+      "confidence": 0.70
+    },
+    {
+      "plant_name": "Ficus benghalensis L.",
+      "confidence": 0.92
+    },
+    {
+      "plant_name": "Fagraea racemosa Jack",
+      "confidence": 0.83
+    },
+    {
+      "plant_name": "Drosera burmanni Vahl",
+      "confidence": 0.93
+    },
+    {
+      "plant_name": "Dolichos trilobus L.",
+      "confidence": 0.93
+    },
+    {
+      "plant_name": "Dioscorea bulbifera L.",
+      "confidence": 0.84
+    },
+    {
+      "plant_name": "Kyllinga nemoralis (Forst.) Dandy ex Hutcins. & Dalziel",
+      "confidence": 0.86
+    },
+    {
+      "plant_name": "Jasminum angustifolium Vahl.",
+      "confidence": 0.92
+    },
+    {
+      "plant_name": "Indigofera linnaei Ali",
+      "confidence": 0.60
+    },
+    {
+      "plant_name": "Impatiens chinensis L.",
+      "confidence": 0.69
+    },
+    {
+      "plant_name": "Impatiens balsamina L.",
+      "confidence": 0.88
+    },
+    {
+      "plant_name": "Ichnocarpus frutescens R.Br.",
+      "confidence": 0.57
+    },
+    {
+      "plant_name": "Iberis amara L.",
+      "confidence": 0.97
+    },
+    {
+      "plant_name": "Haematoxylum campechianum L.",
+      "confidence": 0.87
+    },
+    {
+      "plant_name": "Habenaria commelinifolia (Roxb.) Wall. ex Lindl.",
+      "confidence": 0.52
+    }
+  ],
+  "summary": {
+    "total_plants": 50,
+    "average_confidence": 0.78
+  }
+}
