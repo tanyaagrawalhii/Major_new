@@ -12,7 +12,7 @@ app = Flask(__name__)
 # ===============================
 # Initialize Gemini client
 # ===============================
-API_KEY = "AIzaSyDyI8s51oj4bB0BzId5jZT3W-YVPO1orXY"  # Replace with your Gemini API key
+API_KEY = "AIzaSyBFC5IhwQhZVTM1X_1R9o8J72mmx5HI4s8"  # Replace with your Gemini API key
 client = genai.Client(api_key=API_KEY)
 
 # ===============================
