@@ -5,15 +5,18 @@ from PIL import Image
 import io
 import json
 import re
-import random  # ✅ Added for random confidence
+import random  
+import os
 
 app = Flask(__name__)
 
 # ===============================
 # Initialize Gemini client
 # ===============================
-API_KEY = "AIzaSyBFC5IhwQhZVTM1X_1R9o8J72mmx5HI4s8"  # Replace with your Gemini API key
-client = genai.Client(api_key=API_KEY)
+from dotenv import load_dotenv
+load_dotenv()
+API_KEY = os.environ.get("GEMINI_API_KEY")
+client = genai.Client(api_key=API_KEY) 
 
 # ===============================
 # Prompt Template
